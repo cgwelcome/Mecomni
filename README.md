@@ -1,6 +1,6 @@
 # Omnivox Extractor
 
-Omnivox Extractor logins to Omnivox Account, downloads available documents, and classify in folder with a nice GUI.
+Omnivox Extractor logins to one's Omnivox Account, downloads available documents, and classify in folder with a nice GUI.
 
 ### Installation
 Omnivox requires wxPython to run:
